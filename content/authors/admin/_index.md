@@ -6,7 +6,7 @@ title: Marcus Hlady
 superuser: true
 
 # Role/position/tagline
-role: Statistics
+role: Statistics Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
