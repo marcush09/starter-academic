@@ -11,7 +11,7 @@ role: Statistics
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Univeristy of Waterloo
-  url: https://www.stanford.edu/
+  url: https://uwaterloo.ca/statistics-and-actuarial-science/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
