@@ -14,13 +14,14 @@ organizations:
   url: https://uwaterloo.ca/statistics-and-actuarial-science/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: He who learns but does not think is lost! He who thinks but does not learn is in great danger. - Confucius
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data Analytics
+- Statistics
+- Data Visualization
+- Experimental Design
 
 # Education to show in About widget
 education:
