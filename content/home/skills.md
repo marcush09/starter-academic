@@ -28,10 +28,6 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
-- description:
-  icon: r-project
-  icon_pack: fab
-  name: R
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

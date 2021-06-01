@@ -6,7 +6,7 @@ title: Marcus Hlady
 superuser: true
 
 # Role/position/tagline
-role: Statistics Student
+role: Statistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,6 +22,7 @@ interests:
 - Statistics
 - Data Visualization
 - Experimental Design
+- Sports Analytics
 
 # Education to show in About widget
 education:
@@ -62,8 +63,10 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a 4th year Statistics student at the University of Waterloo.  Through my undergraduate degree I have been fortunate to develop skills in computational statistics, data analysis, mathematical probability, and more.  I love working with and analyzing datasets of all shapes and sizes.  I especially have a passion for sports analytics, and practicing data visualiztion techinques on basketball, baseball, and Formula 1 data.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My most recent experience is with the Operations Division of the Ministry of Transportation of Ontario.
+
+I am always looking learn and make new connections, so please do not hesitate to send me an email!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
