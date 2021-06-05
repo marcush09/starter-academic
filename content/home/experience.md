@@ -23,11 +23,11 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Business Services Associate
-    company: MTO
+    company: MTO Northwest Region
     company_url: ''
     company_logo: ops
     location: Ontario
-    date_start: '2019-05-01'
+    date_start: '2021-05-01'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -35,7 +35,20 @@ experience:
         * Data Collection
         * Database Design
         * Vehicle Data Analysis
+
+  - title: Co-op Student
+    company: MTO Northeast Region
+    company_url: ''
+    company_logo: ops
+    location: Ontario
+    date_start: '2019-05-01'
+    date_end: '2020-09-01'
+    description: |2-
+        Responsibilities include:
         
+        * Data Collection
+        * I&IT Procurement
+        * Fleet Managmenet Duties    
 
 
 design:

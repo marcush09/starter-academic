@@ -1,9 +1,9 @@
 ---
-title: Collision Conference 2021
-subtitle: What I learned and who I got to hear from at this year's fully digital Collision Conference!
+title: CSSC 
+subtitle: What 
 
 # Summary for listings and search engines
-summary: What I learned and who I got to hear from at this year's fully digital Collision Conference!
+summary: What I got to learn at this year's fully digital Collision Conference!
 
 # Link this post with a project
 projects: []
@@ -39,11 +39,14 @@ categories:
 - Personal
 ---
 
-## Overview
+## Collision
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+This April I had an amazing opportunity to attend one of the biggest tech conferences, **Collision**.  I was blown away at how well the conference was organized.  Not only did I get to hear from some incredible speakers, but the platform for viewing and intereacting with the live sessions was great too.  Each of the three days was packed to the brim with speakers and presentations from different fields.
+
+## Highlights
+
+### Crypto and NFTs
+  - Without a doubt two of the hottest topics in tech at the moment are cryptocurrency and NFTs.  It was great to listen in on differing opinions on the future of crypto, and how the investment space is changing.  I was also lucky enough to attend a talk with NBA player Spencer Dinwiddie, who is an investor in NBA TopShot.  TopShot in an online platform backed by the blockchain where basketball fans can buy, sell, and trade their favourite NBA moments as NFTs.  It was great to gain some insights on Dinwiddie's vision for TopShot, and how he thinks the sports industry and NFT market with interact.
 
 {{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
