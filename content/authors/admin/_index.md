@@ -63,7 +63,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a 4th year Statistics student at the University of Waterloo.  Through my undergraduate degree I have been fortunate to develop skills in computational statistics, data analysis, mathematical probability, and more.  I love working with and analyzing datasets of all shapes and sizes.  I especially have a passion for sports analytics, and practicing data visualiztion techinques on basketball, baseball, and Formula 1 data.
+I am a 4th year Statistics student at the University of Waterloo.  Through my undergraduate degree I have been fortunate to develop skills in computational statistics, data analysis, mathematical probability, and more.  I love working with and analyzing datasets of any kind.  I especially have a passion for sports analytics, and practicing data visualiztion techinques on basketball, baseball, and Formula 1 data.
 
 My most recent experience is with the Operations Division of the Ministry of Transportation of Ontario.
 
