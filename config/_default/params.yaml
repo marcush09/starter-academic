@@ -22,6 +22,12 @@ twitter: ''
 
 email: mrhlady@uwaterloo.ca
 
+content:
+  form:
+    provider: netlify
+    netlify:
+      captcha: true
+
 # Site header
 
 main_menu:
